@@ -8,8 +8,6 @@ Sou apaixonado por tecnologia e desenvolvimento de software, com foco em **Java*
 
 Atualmente estou aprofundando meus conhecimentos em desenvolvimento Back-end, Programação Orientada a Objetos, APIs REST e banco de dados relacionais, buscando construir aplicações bem estruturadas e escaláveis.
 
-Além da graduação, atuo como **Secretário de Chefia** no Núcleo Regional de Educação de Ivaiporã (SEED-PR), experiência que fortaleceu habilidades como organização, comunicação, responsabilidade e trabalho em equipe.
-
 🚀 Estou em busca de uma oportunidade de **estágio em Desenvolvimento Back-end**, onde eu possa aplicar meus conhecimentos, aprender continuamente e contribuir para o desenvolvimento de soluções de qualidade.
 
 ---
@@ -18,7 +16,7 @@ Além da graduação, atuo como **Secretário de Chefia** no Núcleo Regional de
 
 <p align="left">
   <a href="https://github.com/luantrainotti">
-    <img src="https://img.shields.io/badge/GitHub-SEUUSUARIO-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-luantrainotti-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/luan-trainotti-616691355">
     <img src="https://img.shields.io/badge/LinkedIn-Luan%20Trainotti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
