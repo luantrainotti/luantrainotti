@@ -4,7 +4,7 @@
 ☕ **Desenvolvedor Back-end em formação**  
 🇧🇷 Brasil
 
-Sou apaixonado por tecnologia e desenvolvimento de software, com foco em **Java** e **Spring Boot**.
+Tenho grande interesse por desenvolvimento de software, especialmente na área de Back-end, utilizando **Java** e **Spring Boot**.
 
 Atualmente estou aprofundando meus conhecimentos em desenvolvimento Back-end, Programação Orientada a Objetos, APIs REST e banco de dados relacionais, buscando construir aplicações bem estruturadas e escaláveis.
 
