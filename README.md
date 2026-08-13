@@ -75,7 +75,3 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento Back-end, Pr
 # 🎯 Objetivo
 
 Construir uma carreira sólida como **Desenvolvedor Back-end Java**, criando aplicações escaláveis, seguras e de qualidade, enquanto evoluo constantemente como profissional e desenvolvedor.
-
----
-
-> **"A tecnologia transforma ideias em soluções. Meu objetivo é aprender continuamente e criar software que faça a diferença."** 🚀
