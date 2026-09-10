@@ -72,6 +72,15 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento Back-end, Pr
 
 ---
 
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=luantrainotti&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" height="160"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luantrainotti&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="160"/>
+</p>
+
+---
+
 # 🎯 Objetivo
 
 Construir uma carreira sólida como **Desenvolvedor Back-end Java**, criando aplicações escaláveis, seguras e de qualidade, enquanto evoluo constantemente como profissional e desenvolvedor.
