@@ -72,11 +72,10 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento Back-end, Pr
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=luantrainotti&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" height="160"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luantrainotti&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="160"/>
+📊 GitHub Stats
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
 </p>
 
 ---
